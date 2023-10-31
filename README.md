@@ -1,7 +1,7 @@
 
 <h1>MOTIVATION</h1>
 
-<h2>This repo showcases my data analytics skills, including a function to audit an e-commerce catalog and a class to determine commissions based on sales. </h2>
+<h2>This repo showcases my data analytics skills, including a function to audit an e-commerce catalog, a Python class to determine commissions based on sales, and a function to cleanup data. </h2>
 
 <h1>CODE STYLE</h1>
 
